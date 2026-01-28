@@ -1,0 +1,2 @@
+# ScoutStig
+DISA STIG tool
